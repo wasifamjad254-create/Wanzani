@@ -1,0 +1,31 @@
+
+# Flutter and Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+.vscode/
+
+# Android generated files
+android/.gradle/
+android/local.properties
+
+# Sensitive configuration
+.env
+.env.*
+!.env.example
+
+# Signing keys
+*.jks
+*.keystore
+key.properties
+
+# Operating system
+.DS_Store
+Thumbs.db
